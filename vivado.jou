@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Sat Nov 15 17:21:03 2025
+# Process ID: 24728
+# Current directory: G:/My Drive/Proiecte/PSN/project_3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25552 G:\My Drive\Proiecte\PSN\project_3\project_3.xpr
+# Log file: G:/My Drive/Proiecte/PSN/project_3/vivado.log
+# Journal file: G:/My Drive/Proiecte/PSN/project_3\vivado.jou
+# Running On: DESKTOP-JF7BU5U, OS: Windows, CPU Frequency: 1992 MHz, CPU Physical cores: 4, Host memory: 34245 MB
+#-----------------------------------------------------------
+start_gui
+open_project {G:/My Drive/Proiecte/PSN/project_3/project_3.xpr}
+update_compile_order -fileset sources_1

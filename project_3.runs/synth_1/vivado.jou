@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Sun Nov 16 19:04:24 2025
+# Process ID: 24488
+# Current directory: C:/Users/user/Documents/FPGA/project_3/project_3.runs/synth_1
+# Command line: vivado.exe -log robot.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source robot.tcl
+# Log file: C:/Users/user/Documents/FPGA/project_3/project_3.runs/synth_1/robot.vds
+# Journal file: C:/Users/user/Documents/FPGA/project_3/project_3.runs/synth_1\vivado.jou
+# Running On: DESKTOP-JF7BU5U, OS: Windows, CPU Frequency: 1992 MHz, CPU Physical cores: 4, Host memory: 34245 MB
+#-----------------------------------------------------------
+source robot.tcl -notrace
